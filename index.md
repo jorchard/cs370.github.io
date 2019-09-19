@@ -7,3 +7,5 @@ Unit 1: Floating-Point Numbers
 - [Rounding Error Demo](/floating_point/roundoff_demo.html)
 - [IEEE Floating-Point](/floating_point/IEEE_FP_standard.html)
 
+Unit 2: Linear Algebra
+- [Random Web Surfer Demos](/floating_point/Randy_demos.html)
