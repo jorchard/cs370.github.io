@@ -9,4 +9,4 @@ Unit 1: Floating-Point Numbers
 
 Unit 2: Linear Algebra
 - [Random Web Surfer Demos](/floating_point/Randy_demos.html)
-- [Gershgorin Circles](/floating_point/Gershgorin_demo.html)
+- [Gershgorin Circles](/cs370.github.io/floating_point/Gershgorin_demo.html)
