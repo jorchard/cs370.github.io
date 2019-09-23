@@ -8,5 +8,5 @@ Unit 1: Floating-Point Numbers
 - [IEEE Floating-Point](/floating_point/IEEE_FP_standard.html)
 
 Unit 2: Linear Algebra
-- [Random Web Surfer Demos](/floating_point/Randy_demos.html)
-- [Gershgorin Circles](/cs370.github.io/floating_point/Gershgorin_demo.html)
+- [Random Web Surfer Demos](/linear_algebra/Randy_demos.html)
+- [Gershgorin Circles](/linear_algebra/Gershgorin_demo.html)
