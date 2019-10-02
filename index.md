@@ -11,3 +11,5 @@ Unit 2: Linear Algebra
 - [Random Web Surfer Demos](/linear_algebra/Randy_demos.html)
 - [Gershgorin Circles](/linear_algebra/Gershgorin_demo.html)
 - [Matrix Norms and Condition Number](/linear_algebra/induced_norms.html)
+- [LU Demo](/linear_algebra/LU_Demo.html)
+- [PCA Demo (SVD)](/linear_algebra/PCA_Demo.html)
