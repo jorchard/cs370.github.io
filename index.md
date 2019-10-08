@@ -13,3 +13,8 @@ Unit 2: Linear Algebra
 - [Matrix Norms and Condition Number](/linear_algebra/induced_norms.html)
 - [LU Demo](/linear_algebra/LU_Demo.html)
 - [PCA Demo (SVD)](/linear_algebra/PCA_Demo.html)
+
+Unit 3: Ordinary Differential Equations
+- [Quiver Plot](/ODEs/quiver_plot.html)
+- [Euler's Method](/ODEs/Euler_demo.html)
+- [Local vs Global Error Demo (py)](/ODEs/Euler_error_demo.py)
