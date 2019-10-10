@@ -18,3 +18,6 @@ Unit 3: Ordinary Differential Equations
 - [Quiver Plot](/ODEs/quiver_plot.html)
 - [Euler's Method](/ODEs/Euler_demo.html)
 - [Local vs Global Error Demo (py)](/ODEs/Euler_error_demo.py)
+- [Python's ODE Suite](/ODEs/ode_suite_demos.html)
+- [3rd-Order Runge-Kutta (py)](/ODEs/rk3.py)
+- [Novelty Golf Animations (py)](/ODEs/anim_golf.py)
