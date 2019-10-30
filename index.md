@@ -26,3 +26,4 @@ Unit 4: Interpolation
 - [Vandermonde System](/interpolation/Vandermonde.html)
 - [Lagrange Demo](/interpolation/Lagrange_demo.html)
 - [Python's Splines](/interpolation/simple_spline.html)
+- [ginput Demo](/interpolation/ginput_demo.html)
