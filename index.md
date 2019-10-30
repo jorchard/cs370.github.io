@@ -21,3 +21,8 @@ Unit 3: Ordinary Differential Equations
 - [Python's ODE Suite](/ODEs/ode_suite_demos.html)
 - [3rd-Order Runge-Kutta (py)](/ODEs/rk3.py)
 - [Novelty Golf Animations (py)](/ODEs/anim_golf.py)
+
+Unit 4: Interpolation
+- [Vandermonde System](/interpolation/Vandermonde.html)
+- [Lagrange Demo](/interpolation/Lagrange_demo.html)
+- [Python's Splines](/interpolation/simple_spline.html)
