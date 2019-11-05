@@ -31,4 +31,4 @@ Unit 4: Interpolation
 - [Bezier Curves](/interpolation/Bezier.html)
 
 Unit 5: Fourier Theory
-- [Fourier Series](/Fourier/Fourier_serise_demo.html)
+- [Fourier Series](/Fourier/Fourier_series_demo.html)
