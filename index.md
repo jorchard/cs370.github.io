@@ -28,7 +28,7 @@ Unit 4: Interpolation
 - [Python's Splines](/interpolation/simple_spline.html)
 - [ginput Demo](/interpolation/ginput_demo.html)
 - [Crawling Bug Demo (py)](/interpolation/crawling_bug_demo.py)
-- [B'{e}zier Curves](/interpolation/Bezier.html)
+- [Bezier Curves](/interpolation/Bezier.html)
 
 Unit 5: Fourier Theory
 - [Fourier Series](/Fourier/Fourier_serise_demo.html)
