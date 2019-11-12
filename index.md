@@ -32,3 +32,4 @@ Unit 4: Interpolation
 
 Unit 5: Fourier Theory
 - [Fourier Series](/Fourier/Fourier_series_demo.html)
+- [Orthogonality, DFT Matrix](/Fourier/DFT_matrix.html)
