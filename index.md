@@ -36,3 +36,4 @@ Unit 5: Fourier Theory
 - [Aliasing Demo](/Fourier/Aliasing_demo.html)
 - [Audio Filtering](/Fourier/Fourier_audio_demos.html)
 - [Fourier Compression](/Fourier/Compression Demo.html)
+- [Demo of many Fourier properties](/Fourier/Fourier Demos.html)
