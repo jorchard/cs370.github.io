@@ -39,3 +39,6 @@ Unit 5: Fourier Theory
 - [Demo of many Fourier properties](/Fourier/Fourier Demos.html)
 - [Recursive DFT](/Fourier/recursive_FFT.html)
 - [FFT Speed](/Fourier/speed_of_FFT.html)
+
+Unit 6: Least Squares
+- [LS Demos](least_squares/ls_demo.html)
