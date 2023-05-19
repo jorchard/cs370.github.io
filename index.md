@@ -10,8 +10,8 @@ Unit 1: Floating-Point Numbers
 --->
 
 Unit 2: Linear Algebra
+- [Random Web Surfer Demos](/linear_algebra/Randy_demos.html)
 <!---
-[Random Web Surfer Demos](/linear_algebra/Randy_demos.html)
 [Gershgorin Circles](/linear_algebra/Gershgorin_demo.html)
 [Matrix Norms and Condition Number](/linear_algebra/induced_norms.html)
 [LU Demo](/linear_algebra/LU_Demo.html)
