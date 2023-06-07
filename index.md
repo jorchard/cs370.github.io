@@ -14,9 +14,9 @@ Unit 2: Linear Algebra
 - [Gershgorin Circles](/linear_algebra/Gershgorin_demo.html)
 - [Power Iteration (end of LA-02)](/linear_algebra/power_iteration.html)
 - [Matrix Norms and Condition Number](/linear_algebra/induced_norms.html)
+- [PCA Demo (SVD)](/linear_algebra/PCA Demo-plotly.html)
 <!---
 [LU Demo](/linear_algebra/LU_Demo.html)
-[PCA Demo (SVD)](/linear_algebra/PCA_Demo.html)
 --->
 
 Unit 3: Ordinary Differential Equations
