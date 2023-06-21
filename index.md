@@ -30,9 +30,9 @@ Unit 3: Ordinary Differential Equations
 --->
 
 Unit 4: Interpolation
+- [Vandermonde System](/interpolation/Vandermonde.html)
+- [Lagrange Demo](/interpolation/Lagrange_demo.html)
 <!---
-[Vandermonde System](/interpolation/Vandermonde.html)
-[Lagrange Demo](/interpolation/Lagrange_demo.html)
 [Python's Splines](/interpolation/simple_spline.html)
 [ginput Demo](/interpolation/ginput_demo.html)
 [Crawling Bug Demo (py)](/interpolation/crawling_bug_demo.py)
