@@ -34,14 +34,14 @@ Unit 4: Interpolation
 - [Lagrange Demo](/interpolation/Lagrange_demo.html)
 - [Python's Splines](/interpolation/simple_spline.html)
 - [Parametric Curve Demo](/interpolation/curve_demo.html)
+- [Bezier Curves](/interpolation/Bezier.html)
 <!---
 [Crawling Bug Demo (py)](/interpolation/crawling_bug_demo.py)
-[Bezier Curves](/interpolation/Bezier.html)
 --->
 
 Unit 5: Fourier Theory
+- [Fourier Series](/Fourier/Fourier_series_demo.html)
 <!---
-[Fourier Series](/Fourier/Fourier_series_demo.html)
 [Orthogonality, DFT Matrix](/Fourier/DFT_matrix.html)
 [Aliasing Demo](/Fourier/Aliasing_demo.html)
 [Audio Filtering](/Fourier/Fourier_audio_demos.html)
