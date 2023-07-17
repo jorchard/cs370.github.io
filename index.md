@@ -45,9 +45,9 @@ Unit 5: Fourier Theory
 - [Aliasing Demo](/Fourier/Aliasing_demo.html)
 - [Audio Filtering](/Fourier/Fourier_audio_demos.html)
 - [DFT of Images](/Fourier/Fourier_Image_Demos.html)
+- [Fourier Compression](/Fourier/Compression Demo.html)
+- [Demo of many Fourier properties](/Fourier/Fourier Demos.html)
 <!---
-[Fourier Compression](/Fourier/Compression Demo.html)
-[Demo of many Fourier properties](/Fourier/Fourier Demos.html)
 [Recursive DFT](/Fourier/recursive_FFT.html)
 [FFT Speed](/Fourier/speed_of_FFT.html)
 --->
