@@ -47,9 +47,9 @@ Unit 5: Fourier Theory
 - [DFT of Images](/Fourier/Fourier_Image_Demos.html)
 - [Fourier Compression](/Fourier/Compression Demo.html)
 - [Demo of many Fourier properties](/Fourier/Fourier Demos.html)
+- [Recursive DFT](/Fourier/recursive_FFT.html)
+- [FFT Speed](/Fourier/speed_of_FFT.html)
 <!---
-[Recursive DFT](/Fourier/recursive_FFT.html)
-[FFT Speed](/Fourier/speed_of_FFT.html)
 --->
 
 Unit 6: Least Squares
