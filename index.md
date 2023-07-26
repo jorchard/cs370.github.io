@@ -53,8 +53,8 @@ Unit 5: Fourier Theory
 --->
 
 Unit 6: Least Squares
+- [LS Demos](least_squares/ls_demo.html)
+- [Gradient Descent](least_squares/Gradient_descent.html)
 <!---
-[LS Demos](least_squares/ls_demo.html)
-[Gradient Descent](least_squares/Gradient_descent.html)
 [Neural Learning by Gradient Descent](least_squares/NeuralLearning.html)
 --->
